@@ -1,0 +1,8 @@
+[package]
+name = "logica-nebulosa-automobilismo"
+version = "1.0.0"
+edition = "2021"
+description = "Sistema de inferência de Mamdani que indica se um carro está saindo de frente ou de traseira numa curva"
+publish = false
+
+[dependencies]
